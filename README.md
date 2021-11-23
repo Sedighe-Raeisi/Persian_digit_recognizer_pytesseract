@@ -7,5 +7,7 @@ Pytesseract is recognized as a tool that can recognize the text objects in a giv
 - Then, I used the coordinates of these objects in Pytesseract and applied a rectangle to the image in those coordinates.
 - I show the image with drawn rectangles.   
 
-You can see an example of using this method in the bellow image:
-![image](https://user-images.githubusercontent.com/67642255/142974549-d7340e54-fdf4-4218-bccf-8cfd17c303a7.png)
+You can see an example of using this method in the bellow image:    
+
+![image](https://user-images.githubusercontent.com/67642255/142974549-d7340e54-fdf4-4218-bccf-8cfd17c303a7.png)    
+
